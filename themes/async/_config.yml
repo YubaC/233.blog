@@ -3,9 +3,9 @@ open_graph: true
 
 # User info
 user:
-  name: # !ThemeAsync
-  first_name: # !Theme
-  last_name: # !Async
+  name: 中爱电子信息233 # !ThemeAsync
+  first_name: "233" # !Theme
+  last_name: 中爱电子信息 # !Async
   email:
   domain: 站点域名
   avatar: # !/img/avatar.jpg
