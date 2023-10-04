@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "FZWangZAXKJW_title";
+  src: url("../fonts/webfonts/FZWangZAXKJW_title.woff") format("woff");
+}
+.trm-logo-text {
+  font-size: 30px !important;
+  font-family: "FZWangZAXKJW_title" !important;
+}
