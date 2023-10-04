@@ -15,6 +15,7 @@ jobs:
           npm install hexo-cli -g
           npm install hexo-renderer-less
           npm install hexo-renderer-ejs
+          npm install hexo-generator-searchdb
 
           # Generate HTML
           hexo clean

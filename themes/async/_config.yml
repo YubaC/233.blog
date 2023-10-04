@@ -277,8 +277,8 @@ katex:
 
 # Blog search
 search:
-  enable: false
-  type: engine #local engine
+  enable: true
+  type: local #local engine
   href: "https://www.google.com/search?q=site:"
   # href: "https://www.baidu.com/s?wd=site:"
   # href: "https://www.bing.com/search?q=site:"
